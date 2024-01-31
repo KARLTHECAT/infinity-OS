@@ -34,5 +34,6 @@ ____________________________
           COLOR SCHEME
           EXPERIMENTAL _/IN SETTINGS
           SHUTDOWN BUTTON
+          BACKROUND MUSIC
           _________________________
 U CAN DOWNLOAD THE OS [DEMO] =D
